@@ -23,8 +23,6 @@
 ## 🧠 About Me
 
 - 🔭 Currently building a **CNN-BiGRU-Self Attention** model for electricity consumption forecasting
-- 🌱 Learning **FastAPI, Transformers, and LLM fine-tuning**
-- 💬 Ask me about **Python, Keras, TensorFlow, scikit-learn, Flask**
 - 🏆 **9.4 CGPA · First Position** in B.Sc. batch
 - 📫 Reach me at **sutkanthapdreddy@gmail.com**
 - ⚡ Also active on [LeetCode](https://leetcode.com/u/sutkanthapdr/)
