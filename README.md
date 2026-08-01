@@ -8,7 +8,7 @@
 
 <p align="center">
   Passionate about building <strong>intelligent systems</strong> using deep learning and predictive modelling.<br/>
-  Currently pursuing <strong>MCA at BPUT</strong> · Specialising in <strong>CNN, LSTM, GRU, and Self-Attention</strong> architectures<br/>
+   <strong>MCA Graduate at BPUT</strong> · Specialising in <strong>CNN, LSTM, GRU, and Self-Attention</strong> architectures<br/>
   and end-to-end Python AI applications deployed via Flask.
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building a **CNN-BiGRU-Self Attention** model for electricity consumption forecasting
+- 🔭 Developed a **CNN-BiGRU-Self Attention** model for electricity consumption forecasting
 - 🏆 **9.4 CGPA · First Position** in B.Sc. batch
 - 📫 Reach me at **sutkanthapdreddy@gmail.com**
 - ⚡ Also active on [LeetCode](https://leetcode.com/u/sutkanthapdr/)
