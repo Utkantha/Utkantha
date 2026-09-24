@@ -136,7 +136,7 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
   </a>
    &nbsp;
-  <a href="https://utkantha.github.io/om">
+  <a href="https://utkantha.github.io/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="28"/>
   </a>
 </p>
