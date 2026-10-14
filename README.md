@@ -1,138 +1,387 @@
 
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=S%20Utkantha%20Priyadarshini%20Reddy&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Researcher&descAlignY=58&descSize=16&fontColor=ffffff&stroke=7C3AED&strokeWidth=1" width="100%" alt="Header Banner" />
+
   <a href="https://utkantha.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Utkantha+Priyadarshini+Reddy;Full+Stack+Software+Developer+💻;Python+%7C+JavaScript+%7C+Django+%7C+Node.js;Data+Analyst+%7C+University+Physics+Topper+🏆;Building+Scalable+Web+%26+Data-Driven+Apps+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Enterprise+Software+Development+%7C+Full+Stack+Systems;Machine+Learning+Engines+%7C+Predictive+Analytics;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+SQL;University+Physics+Gold+Medalist+%26+MCA+Scholar" alt="Typing Header" />
   </a>
 
+  <br/><br/>
+
   <p align="center">
-    <strong>Master of Computer Applications (MCA '26)</strong> · <strong>Full-Stack Engineer</strong> · <strong>Data Analytics Enthusiast</strong>
+    <img src="https://img.shields.io/badge/MCA_'26-8.28_CGPA-4F46E5?style=flat-square&logo=academia&logoColor=white" alt="MCA" />
+    <img src="https://img.shields.io/badge/B.Sc._Physics-9.4_CGPA_(Topper)-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="BSc Physics" />
+    <img src="https://img.shields.io/badge/Location-Odisha%2C_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-  <!-- Social Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/s-utkantha-priyadarshini-reddy/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="https://utkantha.github.io">
       <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://leetcode.com/u/sutkanthapdr/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <a href="https://www.linkedin.com/in/s-utkantha-priyadarshini-reddy/">
+      <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:sutkanthapdreddy@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=utkantha&label=Profile+Views&color=6366f1&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=utkantha&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Views" />
+    <a href="https://github.com/Utkantha">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=utkantha&label=Profile+Views&color=6366f1&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/github/followers/Utkantha?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Utkantha?label=Total+Stars&style=flat-square&color=8b5cf6" alt="Stars" />
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### 🏛️ About
+
+**S Utkantha Priyadarshini Reddy** is a Software Engineer and Data Analyst with a rigorous technical foundation spanning post-graduate computing (MCA, 8.28 CGPA) and university-rank physics (9.4 CGPA Batch Topper). Experienced in developing high-throughput web architectures, distributed backend APIs, and predictive machine learning models.
+
+* **Software Engineering:** Designs scalable, modular client-server architectures leveraging Python (Django, Flask) and JavaScript/TypeScript (Node.js, Express.js, React).
+* **AI/ML & Data Engineering:** Builds deep learning architectures (CNN, BiGRU, Self-Attention) for time-series forecasting, automated web scraping infrastructure, and executive business analytics.
+* **Product Mindset:** Translates business logic into optimized database schemas (relational and document-based), adhering to strict latency bounds, robust access control, and modular clean code standards.
+* **Open To:** Full-time roles in **Software Engineering (Full Stack / Backend)**, **Systems Development**, and **Data Analytics / Engineering**.
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+```
+Languages
+```
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css" alt="Languages" />
+
+<br/>
+
+```
+Frontend Architecture
+```
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend" />
+
+<br/>
+
+```
+Backend & Databases
+```
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,flask,postgres,mysql,mongodb,sqlite" alt="Backend & DB" />
+
+<br/>
+
+```
+Cloud, DevOps & Tooling
+```
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,postman,vscode" alt="DevOps & Tools" />
+
+</div>
+
+---
+
+### 🧠 AI / ML & Analytical Expertise
+
+| Domain | Proficiency | Technical Focus & Methodologies |
+| :--- | :---: | :--- |
+| **Deep Learning & Time Series** | Advanced | CNN-BiGRU hybrid networks, Self-Attention layers, LSTM architectures, loss convergence optimization |
+| **Exploratory Data Analysis (EDA)** | Expert | Parametric and non-parametric hypothesis testing, distribution evaluation, outlier detection, Pandas, NumPy |
+| **Data Pipelines & Web Scraping** | Advanced | Automated scraping bots, DOM tree parsing, multi-tier pagination, session-handling via BeautifulSoup |
+| **Business Intelligence & BI** | Advanced | Tableau, Power BI, custom data modeling, executive reporting, KPI tracking, revenue optimization |
+| **Natural Language Processing (NLP)** | Proficient | Lexicon-based sentiment analysis, text normalization, tokenization, customer feedback classification |
+
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><strong>🛒 Full-Stack Enterprise E-Commerce Platform</strong></summary>
+<br/>
+
+Production-grade e-commerce application architected with Python (Django) and SQLite, delivering end-to-end user journeys from registration to checkout.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Python, Django, SQLite, HTML5, CSS3, JavaScript, Vercel |
+| **Scale** | Multi-category product taxonomy, session-based cart isolation |
+| **Performance** | Optimized Django ORM queryset execution, static asset compression |
+| **Security** | CSRF protection, salted password hashing, authenticated session cookies |
+| **Impact** | Complete transactional parity with enterprise e-commerce pipelines |
+| **Repository** | [Utkantha/codealpha_ecommerce](https://github.com/Utkantha/codealpha_ecommerce) |
+
+Engineered server-side rendered UI components with dynamic state updates. Configured database migration modules, relational foreign-key integrity across user-cart-order tables, and automated seeding scripts.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>💬 High-Concurrency Social Networking Platform</strong></summary>
+<br/>
+
+Full-stack social communication engine powered by Node.js and Express.js, implementing real-time feed updates and relational user connections.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Node.js, Express.js, JavaScript, REST API, HTML5, CSS3 |
+| **Scale** | Multi-user support, relational like/follow graph, threaded conversations |
+| **Performance** | Asynchronous non-blocking I/O event loops, low-overhead REST routing |
+| **Security** | Input sanitization, CORS policy enforcement, payload validation |
+| **Impact** | Modular REST service handling end-to-end user engagement flows |
+| **Repository** | [Utkantha/codealpha_socialmedia](https://github.com/Utkantha/codealpha_socialmedia) |
+
+Engineered decoupled API endpoints for profile mutation, post dissemination, and nested comment trees. Designed responsive, accessible client-side interfaces using vanilla JavaScript.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>⚡ Deep Learning Electricity Consumption Predictive Engine</strong></summary>
+<br/>
+
+Predictive energy consumption system utilizing advanced neural network models integrated into a lightweight web dashboard for real-time inference.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Python, TensorFlow, Keras, Scikit-learn, Pandas, Flask |
+| **Scale** | High-frequency continuous energy consumption telemetry records |
+| **Performance** | Optimized $R^2$ score and minimized RMSE across validation folds |
+| **Security** | Server-side validation of numeric feature vectors |
+| **Impact** | Actionable load forecasting for demand-side energy balancing |
+| **Repository** | [Utkantha/Electricity_consumption_prediction](https://github.com/Utkantha/Electricity_consumption_prediction) |
+
+Conducted thorough data normalization, sliding-window feature engineering, and hyperparameter tuning across multi-layer convolutional and recurrent layers.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🛡️ AuraDex — Modern Pokédex System</strong></summary>
+<br/>
+
+High-performance front-end web application with glassmorphic aesthetics, micro-interactions, and live third-party REST API integration.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | React, TypeScript, Vite, Tailwind CSS |
+| **Scale** | Dynamic catalog querying 1,000+ data nodes via REST endpoints |
+| **Performance** | Client-side search caching, sub-second Vite production bundling |
+| **Security** | Strict TypeScript compile-time type validation |
+| **Impact** | 95+ Google Lighthouse rating for performance, accessibility, and SEO |
+| **Repository** | [Utkantha/aura-dex](https://github.com/Utkantha/aura-dex) · [Live Demo](https://utkantha.github.io/aura-dex/) |
+
+Constructed reusable React component hierarchies utilizing custom hooks, clean state boundaries, and utility-first responsive Tailwind layouts.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>☁️ DriveSphere — Secure Cloud Storage Platform</strong></summary>
+<br/>
+
+Full-stack personal cloud storage ecosystem engineered for structured file uploads, folder hierarchy management, and authenticated access.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | TypeScript, React, Node.js, Express.js |
+| **Scale** | Hierarchical file/directory mapping with metadata persistence |
+| **Performance** | Streamed multipart file transfers avoiding RAM saturation |
+| **Security** | Role-based file permissions, tokenized user sessions |
+| **Impact** | End-to-end private cloud alternative with instant sync mechanisms |
+| **Repository** | [Utkantha/drive_sphere](https://github.com/Utkantha/drive_sphere) |
+
+Features modular storage adaptors, responsive navigation drawers, and robust client-side validation for media uploads.
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Full Stack Development Intern** · CodeAlpha  
+*September 2026 · Remote, India*  
+* Engineered and deployed end-to-end full-stack web applications spanning e-commerce systems, social networks, and collaborative tools.
+* Designed and consumed secure RESTful APIs with database schemas ensuring consistent ACID-compliant CRUD operations.
+* Authored clean, modular codebases adhering to version-control standards on Git and GitHub.
+* Awarded verified [Completion Certificate](https://drive.google.com/file/d/1lPrbBNTddLA6mZQECIXGGGtLFllWDyIg/view?usp=drivesdk) and official [Letter of Recommendation](https://drive.google.com/file/d/1pX9RULlyNTsCxTUojZNWY5xuoaIyYMGY/view?usp=drivesdk).
+
+`Python` `Django` `Node.js` `Express.js` `JavaScript` `RESTful APIs` `SQLite` `Git`
+
+<br/>
+
+**Data Analytics Intern** · CodeAlpha  
+*September 2026 · Remote, India*  
+* Executed multi-phase Exploratory Data Analysis (EDA) on commercial datasets, identifying sales drivers, revenue trends, and promotional anomalies.
+* Built automated web scrapers leveraging BeautifulSoup to extract tabular data from structured public portals.
+* Designed business dashboards and authored executive analytics reports guiding operational strategy.
+* Awarded verified [Completion Certificate](https://drive.google.com/file/d/1lPrbBNTddLA6mZQECIXGGGtLFllWDyIg/view?usp=drivesdk) and official [Letter of Recommendation](https://drive.google.com/file/d/1pX9RULlyNTsCxTUojZNWY5xuoaIyYMGY/view?usp=drivesdk).
+
+`Python` `Pandas` `NumPy` `EDA` `Web Scraping` `Tableau` `Seaborn` `SQL`
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **University Physics Batch Topper (1st Rank)** | Graduated with 9.4 CGPA across physical sciences and mathematical analysis, Berhampur University |
+| **Academic Excellence (MCA)** | Maintained 8.28 CGPA in Master of Computer Applications, Biju Patnaik University of Technology (BPUT) |
+| **CodeAlpha Dual Internship Honors** | Awarded verified Certificate of Completion & official Letter of Recommendation across Full Stack & DA tracks |
+| **HackerRank 5-Star SQL Proficiency** | Verified Intermediate & Basic certifications in relational database schema and complex query optimization |
+
+</div>
+
+---
+
+### 📜 Certifications
+
+```
+Enterprise & Global Industry Simulations
+```
+<p>
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a8a7b72841fdedde7f9d013_1787469332744_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics_Simulation-000000?style=flat-square&logo=deloitte&logoColor=86BC25" alt="Deloitte" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a8a7b72841fdedde7f9d013_1787478101416_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-0076CE?style=flat-square&logo=tata&logoColor=white" alt="Tata" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_6a8a7b72841fdedde7f9d013_1787506814078_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Commonwealth_Bank-Intro_to_Cybersecurity-FFCC00?style=flat-square&logoColor=black" alt="CommBank" />
+  </a>
+</p>
+
+```
+Algorithmic & Database Foundations
+```
+<p>
+  <a href="https://www.hackerrank.com/certificates/iframe/28f0bff79daf">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank SQL Inter" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/0bd2322510a3">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/51061d67698d">
+    <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-3776AB?style=flat-square&logo=python&logoColor=white" alt="HackerRank Python Basic" />
+  </a>
+</p>
+
+---
+
+### 🧩 Coding Profiles
+
+<div align="center">
+
+  <a href="https://leetcode.com/u/sutkanthapdr/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/sutkanthapdr">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Utkantha">
+    <img src="https://img.shields.io/badge/GitHub-Developer_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkantha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&icon_color=8B5CF6" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkantha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" height="165" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkantha&theme=radical&hide_border=true&background=0d1117&stroke=7C3AED&ring=8B5CF6&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B5CF6" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkantha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkantha&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=6366F1&point=A78BFA&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Utkantha/Utkantha/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+</div>
+
+---
+
+### 🎯 Current Focus
 
 ```yaml
-name: S Utkantha Priyadarshini Reddy
-role: Full-Stack Developer & Data Analyst
-education:
-  - MCA (2024 - 2026) | BPUT | 8.28 CGPA
-  - B.Sc. Physics (Honours) | Berhampur University | 9.4 CGPA (Batch Topper 🥇)
-internship: Full Stack & Data Analytics Intern @ CodeAlpha
-focus_areas:
-  - Scalable Web Engineering (Django, Node.js, Express, React, TypeScript)
-  - RESTful API Architecture & Authentication
-  - Exploratory Data Analysis (EDA), Web Scraping & BI Dashboards
-status: Available for Full-Time Entry-Level Software Developer / Data Analyst Roles
+current_focus:
+  learning: Distributed Microservice Patterns & Next.js 14
+  building: High-throughput API gateways and automated ETL pipelines
+  exploring: Graph Neural Networks & Transformer-based Time Series Forecasting
+  open_to: Full-Time Software Engineer, Full Stack Developer, or Data Analyst roles
 ```
 
-- 🔭 Currently building scalable full-stack applications with **Django**, **Node.js/Express**, and **React/TypeScript**.
-- 💼 Completed virtual internships with **CodeAlpha** across Full Stack Engineering and Data Analytics.
-- ⚡ Deep passion for quantitative modeling and data-driven algorithms backed by a physics honors background.
-- 💬 Ask me about **Full-Stack Architecture**, **REST APIs**, **Python/JS**, and **Data Visualization**.
-
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🤝 Connect
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) |
-| **Frontend Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Data Analytics & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-
-</div>
-
----
-
-### 🚀 Featured Repositories
-
-| Project | Highlights & Tech Stack | Links |
-| :--- | :--- | :---: |
-| 🛒 **Full-Stack E-Commerce Platform** | Production-ready store with user auth, cart management, product catalogs, and order processing workflows built with **Django & SQLite**. | [Repository](https://github.com/Utkantha/codealpha_ecommerce) |
-| 💬 **Social Media Platform** | Full-stack social networking app with REST API routing, user profiles, feeds, comments, and like/follow system in **Node.js & Express.js**. | [Repository](https://github.com/Utkantha/codealpha_socialmedia) |
-| ☁️ **DriveSphere / NexusCloud** | Cloud storage web application supporting secure file management, upload/download streaming, and folder architectures. | [Repository](https://github.com/Utkantha/drive_sphere) |
-| ⚡ **AuraDex Pokédex** | Modern frontend application featuring a premium glassmorphism UI, smooth micro-animations, and live API data querying. | [Repository](https://github.com/Utkantha/aura-dex) · [Live Demo](https://utkantha.github.io/aura-dex/) |
-| 📊 **E-Commerce EDA & Insights** | Exploratory Data Analysis on retail transactions evaluating revenue distributions, promo discount impacts, and business metrics. | [Repository](https://github.com/Utkantha/codealpha_exploratory-dataanalysis-DA) |
-| 📈 **Superstore Sales Data Visualization** | Multi-dimensional sales and profitability reporting isolating loss-making categories and high-margin inventory drivers. | [Repository](https://github.com/Utkantha/codealpha_datavisualisation-DA) |
-| 🕷️ **Multi-Source Web Scraping Pipeline** | Automated web crawler parsing HTML DOMs across World Bank, NASA, and bookstore catalogs using **BeautifulSoup**. | [Repository](https://github.com/Utkantha/codealpha_webscraping-DA) |
-
----
-
-### 📊 GitHub & Problem Solving Activity
-
-<div align="center">
-
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkantha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkantha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkantha&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/u/sutkanthapdr/">
-    <img src="https://leetcard.jacoblin.cool/sutkanthapdr?theme=dark&font=Ubuntu&border=0" alt="LeetCode Stats" />
-  </a>
-
-</div>
-
----
-
-### 🏆 Verified Certifications
-
-- 🌐 **Deloitte Australia** — *Data Analytics Job Simulation*
-- 🤖 **Tata** — *GenAI Powered Data Analytics Job Simulation*
-- 🛡️ **Commonwealth Bank** — *Introduction to Cybersecurity*
-- ⭐ **HackerRank** — *SQL (Intermediate & Basic) Certified*
-- 🐍 **HackerRank** — *Python (Basic) Certified*
-
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-  <p>I'm always open to discussing new software development opportunities, open-source collaborations, or tech conversations!</p>
-
-  <a href="https://www.linkedin.com/in/s-utkantha-priyadarshini-reddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="mailto:sutkanthapdreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-sutkanthapdreddy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/s-utkantha-priyadarshini-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Utkantha">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://utkantha.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+
 </div>
 
+---
+
+<div align="center">
+
+  <p><em>"Simplicity is prerequisite for reliability. Building scalable systems at the intersection of robust engineering and analytical rigor."</em></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
