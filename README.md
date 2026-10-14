@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
   <!-- Animated Typing SVG Header -->
@@ -135,4 +135,4 @@ status: Available for Full-Time Entry-Level Software Developer / Data Analyst Ro
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-```
+
