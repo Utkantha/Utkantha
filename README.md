@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=S%20Utkantha%20Priyadarshini%20Reddy&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Researcher&descAlignY=58&descSize=16&fontColor=ffffff&stroke=7C3AED&strokeWidth=1" width="100%" alt="Header Banner" />
 
   <a href="https://utkantha.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Enterprise+Software+Development+%7C+Full+Stack+Systems;Machine+Learning+Engines+%7C+Predictive+Analytics;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+SQL;University+Physics+Topper+%26+MCA+Graduate" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Development+%7C+Full+Stack+Development;Full+Stack+Developer+%7C+Data+Analytics;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+SQL;University+Physics+Topper+%26+MCA+Graduate" alt="Typing Header" />
   </a>
 
   <br/><br/>
@@ -47,7 +47,7 @@
 * **Software Engineering:** Designs scalable, modular client-server architectures leveraging Python (Django, Flask) and JavaScript/TypeScript (Node.js, Express.js, React).
 * **AI/ML & Data Engineering:** Builds deep learning architectures (CNN, BiGRU, Self-Attention) for time-series forecasting, automated web scraping infrastructure, and executive business analytics.
 * **Product Mindset:** Translates business logic into optimized database schemas (relational and document-based), adhering to strict latency bounds, robust access control, and modular clean code standards.
-* **Open To:** Full-time roles in **Software Engineering (Full Stack / Backend)**, **Systems Development**, and **Data Analytics / Engineering**.
+* **Open To:** Full-time roles in **Data Analytics / Engineering**, **Software Engineering (Full Stack / Backend)**, and **Systems Development** .
 
 ---
 
