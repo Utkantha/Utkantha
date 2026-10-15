@@ -205,6 +205,15 @@ Features modular storage adaptors, responsive navigation drawers, and robust cli
 ---
 
 ### 💼 Experience
+**Data Analytics Intern** · CodeAlpha  
+*September 2026 · Remote, India*  
+* Executed multi-phase Exploratory Data Analysis (EDA) on commercial datasets, identifying sales drivers, revenue trends, and promotional anomalies.
+* Built automated web scrapers leveraging BeautifulSoup to extract tabular data from structured public portals.
+* Designed business dashboards and authored executive analytics reports guiding operational strategy.
+* Awarded verified [Completion Certificate](https://drive.google.com/file/d/1lPrbBNTddLA6mZQECIXGGGtLFllWDyIg/view?usp=drivesdk) and official [Letter of Recommendation](https://drive.google.com/file/d/1pX9RULlyNTsCxTUojZNWY5xuoaIyYMGY/view?usp=drivesdk).
+
+`Python` `Pandas` `NumPy` `EDA` `Web Scraping` `Tableau` `Seaborn` `SQL`
+<br/>
 
 **Full Stack Development Intern** · CodeAlpha  
 *September 2026 · Remote, India*  
@@ -215,16 +224,9 @@ Features modular storage adaptors, responsive navigation drawers, and robust cli
 
 `Python` `Django` `Node.js` `Express.js` `JavaScript` `RESTful APIs` `SQLite` `Git`
 
-<br/>
 
-**Data Analytics Intern** · CodeAlpha  
-*September 2026 · Remote, India*  
-* Executed multi-phase Exploratory Data Analysis (EDA) on commercial datasets, identifying sales drivers, revenue trends, and promotional anomalies.
-* Built automated web scrapers leveraging BeautifulSoup to extract tabular data from structured public portals.
-* Designed business dashboards and authored executive analytics reports guiding operational strategy.
-* Awarded verified [Completion Certificate](https://drive.google.com/file/d/1lPrbBNTddLA6mZQECIXGGGtLFllWDyIg/view?usp=drivesdk) and official [Letter of Recommendation](https://drive.google.com/file/d/1pX9RULlyNTsCxTUojZNWY5xuoaIyYMGY/view?usp=drivesdk).
 
-`Python` `Pandas` `NumPy` `EDA` `Web Scraping` `Tableau` `Seaborn` `SQL`
+
 
 ---
 
@@ -234,7 +236,7 @@ Features modular storage adaptors, responsive navigation drawers, and robust cli
 
 | Recognition | Details |
 | :--- | :--- |
-| **University Physics Batch Topper (1st Rank)** | Graduated with 9.4 CGPA across physical sciences and mathematical analysis, Berhampur University |
+| **Physics Batch Topper (1st Rank)** | Graduated with 9.4 CGPA across physical sciences and mathematical analysis, Berhampur University |
 | **Academic Excellence (MCA)** | Maintained 8.28 CGPA in Master of Computer Applications, Biju Patnaik University of Technology (BPUT) |
 | **CodeAlpha Dual Internship Honors** | Awarded verified Certificate of Completion & official Letter of Recommendation across Full Stack & DA tracks |
 | **HackerRank 5-Star SQL Proficiency** | Verified Intermediate & Basic certifications in relational database schema and complex query optimization |
