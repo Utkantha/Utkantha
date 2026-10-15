@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=S%20Utkantha%20Priyadarshini%20Reddy&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=16&fontColor=ffffff&stroke=7C3AED&strokeWidth=1" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=S%20Utkantha%20Priyadarshini%20Reddy&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descSize=16&fontColor=ffffff&stroke=7C3AED&strokeWidth=1" width="100%" alt="Header Banner" />
 
   <a href="https://utkantha.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Python+Development+%7C+Full+Stack+Development;Data+Scientist++%7C+Data+Analytics;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+SQL;Bsc+Physics+Topper+%26+MCA+Graduate" alt="Typing Header" />
